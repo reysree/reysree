@@ -7,6 +7,16 @@
 <h3 align="center">A highly enthusiastic developer focused on full stack applications with AI 🌐🤖</h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a student companion app**
+ 
+ 🌱 I’m currently learning **React, Springboot, AWS, LLM**
+
+🎮 Fun fact I'm a hardcore gamer, especially hooked on Valorant!
+
+ </div>
 <!--
 **reysree/reysree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
