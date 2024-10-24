@@ -3,6 +3,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Sreeram+Bangaru!;" />
 </h1>
+
+<h3 align="center">A highly enthusiastic developer focused on full stack applications with AI 🌐🤖</h3>
+
+<br/>
 <!--
 **reysree/reysree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
