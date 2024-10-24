@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, Springboot, AWS, LLM**
 
-🎮 Fun fact I'm a hardcore gamer, especially hooked on Valorant!
+🎮 Fun fact **I'm a hardcore gamer, especially hooked on Valorant!**
 
  </div>
 <!--
