@@ -31,6 +31,15 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql,flask" /><br>
+</div>
 <!--
 **reysree/reysree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
