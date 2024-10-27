@@ -63,27 +63,6 @@
 
 <br/><br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=reysree&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-      </td>
-      <td>
-        <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=reysree&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=reysree&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-      </td>
-      <td>
-        <img width="390" height="200" src="https://leetcard.jacoblin.cool/reysree?border=0&radius=20" alt="leetcode stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <!--
 **reysree/reysree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
