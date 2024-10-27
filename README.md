@@ -59,11 +59,10 @@
   <br/>
     <div align=center>
         <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=reysree&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <img width=390 src="https://leetcard.jacoblin.cool/reysree?border=0&radius=20)"/>
+    <img width=390 height=300 src="https://leetcard.jacoblin.cool/reysree?border=0&radius=20)"/>
     </div>
 
 <br/><br/>
-![](https://leetcard.jacoblin.cool/reysree?border=0&radius=20)
 
 <!--
 **reysree/reysree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
