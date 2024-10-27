@@ -61,7 +61,7 @@
 </div>
 
 <br/><br/>
-![](https://leetcard.jacoblin.cool/reysree?site=cn)
+![](https://leetcard.jacoblin.cool/reysree?border=0&radius=20)
 
 <!--
 **reysree/reysree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
