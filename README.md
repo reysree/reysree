@@ -39,28 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,scala" />
-</div>
-<br/>
-<div align="center">
-  <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwindcss,materialui,html,css" />
-</div>
-<br/>
-<div align="center">
-  <h4>Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,django,flask,postgresql,mysql,mongodb,redis,firebase,supabase" />
-</div>
-<br/>
-<div align="center">
-  <h4>Cloud & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,vercel,git,github" />
-</div>
-<br/>
-<div align="center">
-  <h4>Tools & More</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,prisma,expressjs,postman,vite" />
+    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,angular,tailwindcss,materialui,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,python,javascript,typescript,scala,django,flask,postgresql,mysql,mongodb,firebase,supabase,aws,gcp,docker,kubernetes,vercel,prisma,redis,expressjs" /><br>
 </div>
 
 <div align="center">
@@ -96,6 +76,7 @@
   </table>
 </div>
 <br/><br/>
+
 
 <!--
 **reysree/reysree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
