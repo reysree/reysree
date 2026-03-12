@@ -39,8 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,angular,tailwindcss,materialui,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,nodejs,python,javascript,typescript,scala,django,flask,postgresql,mysql,mongodb,firebase,supabase,aws,gcp,docker,kubernetes,vercel,prisma,redis,expressjs" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,angular,tailwindcss,materialui,html,css,vscode,github,git,java,nodejs,python,javascript,typescript,scala,django,flask,postgresql,mysql,mongodb,firebase,supabase,aws,gcp,docker,kubernetes,vercel,prisma,redis,expressjs&perline=17" /><br>
 </div>
 
 <div align="center">
@@ -76,6 +75,7 @@
   </table>
 </div>
 <br/><br/>
+
 
 
 <!--
